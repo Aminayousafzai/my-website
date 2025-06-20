@@ -1,18 +1,18 @@
 :root {
   /* Colors
   ____________________*/
-  --color-primary: #2586d5;
-  --color-primary-dark: #208c61;
-  --color-bg-primary: #c1c3c4;
+  --color-primary: #151616;
+  --color-primary-dark: #154b35;
+  --color-bg-primary: #8abbbb;
   --color-bg-secondary: #242424;
   --color-bg-footer: #151515;
-  --color-white: #ffffff;
-  --color-text: #676767;
+  --color-white: #221e1e;
+  --color-text: #524a4a;
   --color-border: #373737;
 
   /* Font & Typography
   ___________________*/
-  --ff-body: "Space Grotesk", sans-serif;
+  --ff-body: "Metal Mania", system-ui;
   /* font sizes */
   --fs-sm: 1.4rem;
   --fs-md: 1.6rem;
