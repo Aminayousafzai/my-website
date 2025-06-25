@@ -388,6 +388,7 @@ body {
     grid-template-columns: repeat(2, 1fr);
   }
 
+
   .qualification__footer {
     text-align: initial;
     display: flex;
